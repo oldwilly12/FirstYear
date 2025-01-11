@@ -1,0 +1,110 @@
+ export const recuerdosData = [
+    {
+        id: 1,
+        titulo: 'Noche de pirmer beso',
+        imagen: 'Foto 20.jpeg',
+        descripcion: 'Iniciando con una foto que sin mas fue la cita en que nos dimos el primer beso, un momento en el que no supe que hacer y me dejé llevar por el momento, un momento que no olvidaré jamás.',
+    },
+    {
+        id: 2,
+        titulo: 'Foto especial',
+        imagen: 'Foto 21.jpeg',
+        descripcion: 'Poco a poco me fui enamorando de ti y tu form unica de ser, loca pero el loco que me hace sentir vivo y me hace vivir mi manera de una foma diferente',
+    },
+    {
+        id: 3,
+        titulo: 'Gym rats',
+        imagen: 'Foto 2.jpeg',
+        descripcion: 'Vamos de un lado a otro pero siempre juntos, no importa si es algo fitness o si es de paseo, siempre juntos.',
+    },
+    {
+        id: 4,
+        titulo: 'School',
+        imagen: 'Foto 3.jpeg',
+        descripcion: 'Me has permitido concer una parte de ti unica y llevado a lugares que para ti eran cotidianos pero para mi eran nuevos, gracias por permitirme conocer tu mundo.',
+    },
+    {
+        id: 5,
+        titulo: 'Paladar viejita',
+        imagen: 'Foto 4.jpeg',
+        descripcion: 'La comida y las bebidas que me permites concer a tu lado, aunque tengas un paladar unico quiero seguir compartiendo todas las comidas contigo',
+    },
+    {
+        id: 6,
+        titulo: 'Farra',
+        imagen: 'Foto 6.jpeg',
+        descripcion: 'No todo es cosas saludables, las noches de farra tambien son parte de lo que somos'
+    },
+    {
+        id: 7,
+        titulo: 'San valentin',
+        imagen: 'Foto 8.jpeg',
+        descripcion: 'Sigamos dando amor y cariño, no solo en fechas especiales sino en cada momento que pasemos juntos, pero esas fechas contigo quiero pasar todas',
+    },
+    {
+        id: 8,
+        titulo: 'Prom',
+        imagen: 'Foto 9.jpeg',
+        descripcion: 'Momentos especiales a tu lado y conmpartir mis logros son cosas que quiero vivir contigo asi como verte crecer y lograr tus metas',
+    },
+    {
+        id: 9,
+        titulo: 'Danny Ocean',
+        imagen: 'Foto 10.jpeg',
+        descripcion: 'Primer concierto al que fuimos tal vez no era tu artista favorito pero se volvio de mis favortios por ser mi primer concierto contigo',
+    },
+    {
+        id: 10,
+        titulo: 'Comelona',
+        imagen: 'Foto 11.jpeg',
+        descripcion: 'JEJEJE me gusta ver cuando la comida te gusta porque se que te gusta y me gusta verte feliz',
+    },
+    {
+        id: 11,
+        titulo: 'Independencia',
+        imagen: 'Foto 12.jpeg',
+        descripcion: 'Carnes, fechas, cenas se que contigo siempre sera especial',
+    },
+    {
+        id: 12,
+        titulo: 'Halloween',
+        imagen: 'Foto 13.jpeg',
+        descripcion: 'Mi primera calabaza tallada y fue contigo',
+    },
+    {
+        id: 13,
+        titulo: 'Novia y naturaleza',
+        imagen: 'Foto 14.jpeg',
+        descripcion: 'Desde que vi que quedas con la naturaleza, te veo en todo lo bello y que me da vida',
+    },
+    {
+        id: 14,
+        titulo: 'Pumpe',
+        imagen: 'Foto 15.jpeg',
+        descripcion: 'Obviiooooo estube en tu cumnple y SIEMPRE HARE QUE SEA AUN MAS ESEPECIAL PARA TI <3',
+    },
+    {
+        id: 15,
+        titulo: 'Campo',
+        imagen: 'Foto 16.jpeg',
+        descripcion: '<3',
+    },
+    {
+        id: 16,
+        titulo: 'Vaqueros',
+        imagen: 'Foto 17.jpeg',
+        descripcion: 'Jamas crei amar el modo vaquero pero contigo me quedo bien',
+    },
+    {
+        id: 17,
+        titulo: 'Navidad',
+        imagen: 'Foto 18.jpeg',
+        descripcion: 'Ojala y la siguiente navidad ahora si salgas abajo de mi pino de navidad',
+    },
+    {
+        id: 18,
+        titulo: 'Te amo',
+        imagen: 'Foto 19.jpeg',
+        descripcion: 'Pero sobre todo... siemmpre quiero estar de tu mano y verte feliz',
+    },
+    ]
